@@ -23,6 +23,5 @@ This repository contains all the content source for my website. Here you will fi
 | **Pictorials**    | Step by Step Code Tutorials.                 | [EN](https://github.com/samanthaming/samanthaming.com/tree/master/articles/pictorials) |  [download](https://github.com/samanthaming/samanthaming.com/tree/master/images/pictorials)   |  [site](https://www.samanthaming.com/pictorials/)   |
 | **Web Basics**    | Web Basics Explained with Tidbits.           |   [EN](https://github.com/samanthaming/samanthaming.com/tree/master/articles/basics)   |    [download](https://github.com/samanthaming/samanthaming.com/tree/master/images/basics)     |    [site](https://www.samanthaming.com/basics/)     |
 | **CodeTidbits30** | 30 days of the best code snippets.           |                                           -                                            | [download](https://github.com/samanthaming/samanthaming.com/tree/master/images/codetidbits30) | [site](https://www.samanthaming.com/codetidbits30/) |
-| **Blog**          | Articles on programming and things I learned |    [EN](https://github.com/samanthaming/samanthaming.com/tree/master/articles/blog)    |                                               -                                               |     [site](https://www.samanthaming.com/blog/)      |
 
 <br>
