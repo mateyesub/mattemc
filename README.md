@@ -16,8 +16,8 @@ This repository contains all the content source for my website. Here you will fi
 
 <br>
 
-|                   |                                              |                                        Articles                                        |                         🌐                          |
-| ----------------- | -------------------------------------------- | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
-| **Break and Fix**  | Thing I'v bronken and how i fixed them      |  [EN](https://github.com/mattemc/mattemc/....)   |        [site](????://www.mattemc.?/)    |
+|         Section          |                     Content Description                         |                                        Articles                                        |                         🌐                          |
+| ----------------- | -------------------------------------------- | :------------------------------------------------------------------------------------: | :-------------------------------------------------: |
+| **Break and Fix**  | Thing I'v bronken and how i fixed them      |  [EN](https://github.com/mattemc/mattemc/....)   |    [site](????://www.mattemc.?/)    |
 
 <br>
